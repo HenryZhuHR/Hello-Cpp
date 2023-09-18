@@ -1,0 +1,1 @@
+const e={key:"v-0a184e2c",path:"/STL/std_tuple.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"tuple",slug:"tuple",children:[]}],git:{updatedTime:1645766334e3,contributors:[{name:"Henry Zhu",email:"38650110+HenryZhuHR@users.noreply.github.com",commits:1}]},filePathRelative:"STL/std_tuple.md"};export{e as data};

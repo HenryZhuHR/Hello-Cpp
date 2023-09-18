@@ -1,0 +1,1 @@
+const t={key:"v-59c2aac4",path:"/algorithm/KMP.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646276787e3,contributors:[{name:"Henry Zhu",email:"38650110+HenryZhuHR@users.noreply.github.com",commits:1}]},filePathRelative:"algorithm/KMP.md"};export{t as data};

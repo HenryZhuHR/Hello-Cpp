@@ -1,0 +1,1 @@
+const e={key:"v-74c3dc5e",path:"/GenericProgramming.html",title:"\u3010C++\u3011\u6CDB\u578B\u7F16\u7A0B(GenericProgramming)",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1635416838e3,contributors:[{name:"Henry Zhu",email:"38650110+HenryZhuHR@users.noreply.github.com",commits:1}]},filePathRelative:"GenericProgramming.md"};export{e as data};

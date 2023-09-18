@@ -1,0 +1,1 @@
+const t={key:"v-639f6b18",path:"/move_constructor.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:163880287e4,contributors:[{name:"Henry Zhu",email:"38650110+HenryZhuHR@users.noreply.github.com",commits:1}]},filePathRelative:"move_constructor.md"};export{t as data};

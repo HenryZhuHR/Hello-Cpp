@@ -1,0 +1,1 @@
+const e={key:"v-3fc785b6",path:"/design_pattern/decorator.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646456544e3,contributors:[{name:"Henry Zhu",email:"38650110+HenryZhuHR@users.noreply.github.com",commits:2}]},filePathRelative:"design_pattern/decorator.md"};export{e as data};

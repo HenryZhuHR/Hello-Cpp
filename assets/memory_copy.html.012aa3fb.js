@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as _,F as c,a as e}from"./app.2859fef2.js";const r={},a=e("p",null,"\u6D45\u62F7\u8D1D",-1),n=e("p",null,"\u6DF1\u62F7\u8D1D",-1);function s(l,m){return t(),_(c,null,[a,n],64)}var f=o(r,[["render",s],["__file","memory_copy.html.vue"]]);export{f as default};

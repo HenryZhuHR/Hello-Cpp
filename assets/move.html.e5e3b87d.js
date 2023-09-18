@@ -1,0 +1,1 @@
+const e={key:"v-3b6c14cf",path:"/move.html",title:"\u79FB\u52A8\u6784\u9020\u5668",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5B9E\u73B0",slug:"\u5B9E\u73B0",children:[]}],git:{updatedTime:163880287e4,contributors:[{name:"Henry Zhu",email:"38650110+HenryZhuHR@users.noreply.github.com",commits:1}]},filePathRelative:"move.md"};export{e as data};
